@@ -1,0 +1,22 @@
+{
+  "name": "react_ecommer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muzman01/mern_ecommer_backandfront.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muzman01/mern_ecommer_backandfront/issues"
+  },
+  "homepage": "https://github.com/muzman01/mern_ecommer_backandfront#readme",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
